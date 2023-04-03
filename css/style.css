@@ -1,0 +1,33 @@
+.box {
+    height: 89.4vh;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 10px;
+  }
+
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+
+  #muserName {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  #muserPwd {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  #muserPwdconfirm{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  #muserPwdlogin {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+  }
